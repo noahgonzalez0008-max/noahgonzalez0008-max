@@ -1,48 +1,58 @@
-<div align="center">
+<h1 align="center">Noah Gonzalez</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=NAO__DEV" alt="typing" />
-
-### `// student - aspiring mechatronics engineer`
-
----
-
-### `// SKILLS`
-
-![CAD](https://img.shields.io/badge/CAD-000000?style=for-the-badge&logo=autodesk&logoColor=00FF41&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=000000)
+<p align="center">
+  Aspiring Mechatronics Engineer
+</p>
 
 ---
 
-### `// ACTIVE PROJECT`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**`upgraded-rc`** &nbsp;·&nbsp; user interface · data analysis · custom body kit
+### About Me
+
+I'm a student on a mechatronics engineering path, fascinated by the
+point where hardware and software meet.
+
+When I'm not deep in coursework, I'm tinkering with personal builds —
+microcontrollers, sensors, motors, and the occasional plant kept alive
+by code.
+
+Outside of engineering I read widely across agriculture, biology,
+philosophy, and space, work out, and spend time in nature. I'm
+driven by continuous self-improvement and learning by doing.
+
+</td>
+<td width="50%" valign="top">
+
+### Skills & Tools
+
+**Languages**
+- Java
+- C / C++ (Arduino & ESP32)
+
+**Hardware & Electronics**
+- Arduino / ESP32
+- Sensors & actuators
+- Power systems
+
+**Design & CAD**
+- Fusion 360
+- Engineering drawing
+
+**Workflow**
+- VS Code
+- Git & GitHub
+- macOS
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `// STATS`
+### Contact Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=noahgonzalez0008-max&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=4AFA7B&ring_color=00FF41)
-
-![Streak](https://streak-stats.demolab.com?user=noahgonzalez0008-max&hide_border=true&background=00000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=4AFA7B&currStreakNum=00FF41&sideNums=4AFA7B&dates=4AFA7B)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahgonzalez0008-max&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=4AFA7B)
-
----
-
-### `// CONTRIBUTION GRAPH`
-
-![Snake](https://raw.githubusercontent.com/noahgonzalez0008-max/noahgonzalez0008-max/output/snake.svg)
-
----
-
-### `// CONTACT`
-
-[![Email](https://img.shields.io/badge/noahgonzalez0008@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:noahgonzalez0008@gmail.com)
-
----
-
-<sub>`> end_transmission_`</sub>
-
-</div>
+- **Email:** [noahgonzalez0008@gmail.com](mailto:noahgonzalez0008@gmail.com)
+- **Instagram:** [@nao__dev](https://instagram.com/nao__dev)
