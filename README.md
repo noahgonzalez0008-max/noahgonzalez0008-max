@@ -12,16 +12,15 @@
 
 ### About Me
 
-I'm a student on a mechatronics engineering path, fascinated by the
-point where hardware and software meet.
+I'm a high school student who studies mechatronics engineering outside of school, and I'm fascinated by the
+intersection where hardware and software meet.
 
-When I'm not deep in coursework, I'm tinkering with personal builds —
-microcontrollers, sensors, motors, and the occasional plant kept alive
-by code.
+When I'm not deep in coursework, I'm creating personal projects, learning subjects regarding mechatronics, reading, and enjoying life.
 
 Outside of engineering I read widely across agriculture, biology,
 philosophy, and space, work out, and spend time in nature. I'm
 driven by continuous self-improvement and learning by doing.
+
 
 </td>
 <td width="50%" valign="top">
