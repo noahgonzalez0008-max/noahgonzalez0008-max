@@ -21,6 +21,9 @@ Outside of engineering I read widely across agriculture, biology,
 philosophy, and space, work out, and spend time in nature. I'm
 driven by continuous self-improvement and learning by doing.
 
+<br>
+
+<h3><a href="https://noahgonzalez0008-max.github.io/" target="_blank" rel="noopener noreferrer">Check out my personal website</a></h3>
 
 </td>
 <td width="50%" valign="top">
