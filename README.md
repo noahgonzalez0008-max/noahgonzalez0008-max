@@ -47,6 +47,7 @@ driven by continuous self-improvement and learning by doing.
 - VS Code
 - Git & GitHub
 - macOS
+- Claude
 
 </td>
 </tr>
